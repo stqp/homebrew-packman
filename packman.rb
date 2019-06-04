@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Packman < Formula
-  desc ""
+  desc "Simple app."
   homepage ""
   url "https://github.com/stqp/packman"
-  version ""
+  version "1.0.1"
   sha256 ""
   # depends_on "cmake" => :build
 
